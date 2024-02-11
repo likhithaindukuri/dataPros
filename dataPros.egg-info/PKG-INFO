@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: dataPros
+Version: 3.12.2
+Summary: A package for pre-processing the given data
+Home-page: https://github.com/likhithaindukuri/dataPros
+Author: Likhitha
+Author-email: likhithaindukuri117@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+License-File: license.txt
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+
+# dataPros

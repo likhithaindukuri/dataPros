@@ -1,0 +1,8 @@
+README.md
+license.txt
+setup.py
+dataPros.egg-info/PKG-INFO
+dataPros.egg-info/SOURCES.txt
+dataPros.egg-info/dependency_links.txt
+dataPros.egg-info/requires.txt
+dataPros.egg-info/top_level.txt

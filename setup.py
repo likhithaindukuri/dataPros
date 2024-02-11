@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='your_package_name',
-    version='1.0.0',
+    name='dataPros',
+    version='3.12.2',
     packages=find_packages(),
     license='MIT',  
     author='Likhitha',
