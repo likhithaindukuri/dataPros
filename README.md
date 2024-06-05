@@ -1,7 +1,7 @@
 # DataPros
 
 <p align="center">
-    <img src="C:\Users\91630\Desktop\Projects\dataPros\data.png" alt="OCR" width="400"  height="400">
+    <img src="./data.png" alt="OCR" width="400"  height="400">
 </p>
 
 ## Contents
